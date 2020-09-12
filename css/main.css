@@ -194,7 +194,7 @@ letter-spacing: 0.03em;
 }
 /*  ============ End portfolio button  ============ */
 
-/*  ============ portfolio button  ============ */
+/*  ============ portfolio-project  ============ */
 .portfolio-project-title {
     font-family: var(--main-font);
     font-weight: 700;
@@ -212,4 +212,4 @@ line-height: 1.88;
 letter-spacing: 0.03em;
 color: #757575;
 }
-/*  ============ End portfolio button  ============ */
+/*  ============ End portfolio-project  ============ */
