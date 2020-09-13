@@ -92,6 +92,20 @@ line-height: 1.63;
 letter-spacing: 0.03em;
 }
 
+.portfolio-list-button-item:hover,
+.portfolio-list-button-item:focus {
+    font-family: var(--main-font);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.63;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #ffffff;
+    background-color:#2196F3;
+    border: 0;
+}
+
+
 /*  ============ End main section  ============ */
 
 /*  ============ Benefits  ============ */
