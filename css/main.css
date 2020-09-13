@@ -158,22 +158,23 @@ color: var(--text-theme-color);
 /*  ============ footer  ============ */
 .footer-tel-link,
 .footer-email-link,
-.footer-adress-link  {
-    font-family: var(--main-font);
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 1.71;
-    letter-spacing: 0.03em;
-    /* color: rgba(255, 255, 255, 0.6); */
-  }
-
-.footer-tel-link,
-.footer-email-link {
-  /* color: rgba(255, 255, 255, 0.6); */
-}
 .footer-adress-link {
-     /* color: #FFFFFF; */
+font-family: var(--main-font);
+font-weight: 400;
+font-size: 14px;
+line-height: 1.71;
+letter-spacing: 0.03em;
+/* color: rgba(255, 255, 255, 0.6); */
 }
+
+/* .footer-tel-link,
+.footer-email-link {
+color: rgba(255, 255, 255, 0.6);
+}
+
+.footer-adress-link {
+     color: #FFFFFF; 
+} */
 /*  ============ End footer  ============ */
 
 /*  ============ portfolio button  ============ */
